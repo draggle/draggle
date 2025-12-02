@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/draggle](https://github.com/draggle)
 
-- 💬 Ask me about **react!**
-
 - 📫 How to reach me **ayan.binsaif@uwaterloo.ca**
 
 - ⚡ Fun fact **I sleep a lot!**
