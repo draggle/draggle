@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=draggle&label=Profile%20views&color=0e75b6&style=flat" alt="draggle" /> </p>
 
-- 🌱 I’m currently learning **DSA + ML!**
+- 🌱 I’m currently learning **Data Structures & Algorithms and System Design!**
 
 - 👨‍💻 All of my projects are available at [https://www.ayans.dev/](https://www.ayans.dev/)
 
