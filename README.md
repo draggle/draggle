@@ -1,6 +1,5 @@
 <h1 align="center">Hey 👋! I'm Ayan Bin Saif</h1> 
 <h4 align="center">I'm studying Applied Math, Computing, and Machine Learning at the University of Waterloo</h3> 
-<h4 align="center">I'm currently Engineering at <a href="https://tern.ai">TERN</a></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=draggle&label=Profile%20views&color=0e75b6&style=flat" alt="draggle" /> </p>
